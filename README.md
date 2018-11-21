@@ -25,3 +25,17 @@
 <span style="color:#B22222;font-size:65px">Use MarkDown</span>
 </h1>
 -->
+<div style="text-align:left">
+    <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=57fb8a7ddd2aaa2ee7042722f9da874cbc346cb1d747ba72ee7e9844bec81e76"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="数据科学(Python/R/Julia)2" title="数据科学(Python/R/Julia)2">
+    </a>
+</div>
+
+相关链接
+
+***
+
+
+- [GitHub](http://github.com "title")
+- [Douban](https://www.douban.com/people/tukey_cn/)
+- [Weibo](https://weibo.com/u/2923926597/home?wvr=5)
+- [ZhiHu](https://zhuanlan.zhihu.com/tukey/settings/contributes)
